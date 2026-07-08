@@ -1,4 +1,3 @@
-Family Tree Login
 =================
 
 Family Tree Login: Complete Guide to Secure Account Access
