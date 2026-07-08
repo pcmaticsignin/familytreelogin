@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://familytreelogin.readthedocs.io/en/latest/
+
